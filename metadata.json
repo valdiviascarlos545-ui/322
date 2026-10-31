@@ -1,0 +1,8 @@
+{
+  "name": "Remix New York ERLC Staff Management Bot",
+  "description": "Rolonbot: Production-ready Discord.js v14 bot with high-fidelity music streaming, YouTube progress bars, Genius API lyrics, 6 curated playlists, tickets, 15-question DM applications, discipline, and Roblox verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
